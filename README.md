@@ -1,4 +1,9 @@
 # EE_234_Final_Project
+
+### EE 234 Final Project
+### Instructor: Dr. Mohsenian-Rad
+
+
 Power Quality Disturbance Classification
 
 Data Source: https://ieee-dataport.org/documents/power-quality-disturbance
